@@ -65,7 +65,7 @@ A collection of resources for working with sequential and time series data
 - [shyft](https://gitlab.com/shyft-os/shyft) Time-series for python and c++, including distributed storage and calculations Hydrologic Forecasting Toolbox, high-performance flexible stacks, including calibration Energy-market models and micro services.
 - [similarity_measures](https://github.com/cjekel/similarity_measures) Quantify the difference between two arbitrary curves.
 - [sktime](https://github.com/alan-turing-institute/sktime) A `scikit-learn` compatible Python toolbox for learning with time series.
-- [skits] (https://github.com/EthanRosenthal/skits) A library for SciKit-learn-Inspired Time Series models
+- [skits](https://github.com/EthanRosenthal/skits) A library for SciKit-learn-Inspired Time Series models
 - [statsforecast](https://github.com/Nixtla/statsforecast) Lightning :zap: fast forecasting with statistical and econometric models.
 - [statsmodels.tsa](https://www.statsmodels.org/stable/tsa.html) Time Series Analysis (tsa) `statsmodels.tsa` contains model classes and functions that are useful for time series analysis.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) A powerful and scalable Python library that can be used for a variety of time series data mining tasks.
@@ -100,10 +100,10 @@ A collection of resources for working with sequential and time series data
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
 - [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) The package contains many feature extraction methods and a robust feature selection algorithm.
-- [luminol] (https://github.com/linkedin/luminol) A light weight python library for time series data analysis
-- [saxpy] (https://github.com/seninp/saxpy) Used to transform a sequence of rational numbers (i.e., a time series) into a sequence of letters
-- [stationiser] (https://github.com/shaypal5/stationarizer) Smart, automatic detection and stationarization of non-stationary time series data
-- [luminaire] (https://zillow.github.io/luminaire/) Provides several anomaly detection and forecasting capabilities
+- [luminol](https://github.com/linkedin/luminol) A light weight python library for time series data analysis
+- [saxpy](https://github.com/seninp/saxpy) Used to transform a sequence of rational numbers (i.e., a time series) into a sequence of letters
+- [stationiser](https://github.com/shaypal5/stationarizer) Smart, automatic detection and stationarization of non-stationary time series data
+- [luminaire](https://zillow.github.io/luminaire/) Provides several anomaly detection and forecasting capabilities
 
 #### Time Series Segmentation & Change Point Detection
 
