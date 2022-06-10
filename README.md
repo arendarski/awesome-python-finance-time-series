@@ -1,4 +1,4 @@
-# 📈 Time series resources 📉
+# 📈 Time series resources for Python 📉
 
 A collection of resources for working with sequential and time series data
 
