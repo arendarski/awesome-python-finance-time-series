@@ -65,6 +65,7 @@ A collection of resources for working with sequential and time series data
 - [shyft](https://gitlab.com/shyft-os/shyft) Time-series for python and c++, including distributed storage and calculations Hydrologic Forecasting Toolbox, high-performance flexible stacks, including calibration Energy-market models and micro services.
 - [similarity_measures](https://github.com/cjekel/similarity_measures) Quantify the difference between two arbitrary curves.
 - [sktime](https://github.com/alan-turing-institute/sktime) A `scikit-learn` compatible Python toolbox for learning with time series.
+- [skits] (https://github.com/EthanRosenthal/skits) A library for SciKit-learn-Inspired Time Series models
 - [statsforecast](https://github.com/Nixtla/statsforecast) Lightning :zap: fast forecasting with statistical and econometric models.
 - [statsmodels.tsa](https://www.statsmodels.org/stable/tsa.html) Time Series Analysis (tsa) `statsmodels.tsa` contains model classes and functions that are useful for time series analysis.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) A powerful and scalable Python library that can be used for a variety of time series data mining tasks.
